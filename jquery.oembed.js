@@ -1,3 +1,13 @@
+-/*!
+ - * jquery oembed plugin
+ - *
+ - * Copyright (c) 2009 Richard Chamorro
+ - * Licensed under the MIT license
+ - * 
+ - * Orignal Author: Richard Chamorro 
+ - * Forked by Andrew Mee to Provide a slightly diffent kind of embedding 
+ - * experience - Forked by laaabaseball because nobody wants my code
+ - */
 (function($) {
     $.fn.oembed = function(url, options, embedAction) {
 
