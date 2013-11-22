@@ -1,5 +1,12 @@
 == jquery-oembed ChangeLog ==
 
+== laaabaseball's fork 1.2 ===
+Add Vine
+Fix Wiki
+Fix Imgur
+Add Livememe
+Add adult sites
+
 == 1.1.0 RC ==
 * Slideshare native oembed API support (patch by jaipandya)
 * Photobucket native oembed API support
